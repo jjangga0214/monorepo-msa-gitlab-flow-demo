@@ -1,2 +1,3 @@
 deploy green s1
 deploy canary s2
+send traffic to green s1
