@@ -1,1 +1,2 @@
-deploy green
+deploy green s1
+deploy canary s2
